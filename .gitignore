@@ -1,0 +1,8 @@
+.gitignore
+*.txt
+test.py
+*.zip
+*.pdf
+*.exe
+PA3.exe
+.idea
